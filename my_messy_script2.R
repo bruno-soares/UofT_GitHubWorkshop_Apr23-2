@@ -1,5 +1,7 @@
 # Count penguins for each species / sex
 
+# Sasha Colby is going to be the winner of RPDR season 15
+
 penguins <- read.csv2("/Users/gabrielnakamura/OneDrive/Aulas/Workshop_UofT/data_example/raw_data_penguins.csv", header = TRUE)
 
 data_processed2 <- 
